@@ -1,0 +1,7 @@
+NAMA		: NI LUH ERVINA SUNARI DEWI
+NIM		: 2201010703
+KELAS		: TI-KAB (F)
+MATA KULIAH	: PEMROGRAMAN WEB
+DOSEN PENGAMPU	: I MADE GEDE SRI ARTHAA,ST
+
+My To-Do List adalah sebuah aplikasi yang berguna bagi siapa saja yang ingin meningkatkan produktivitas dan mengatur tugas-tugas mereka dengan lebih baik. Dengan fitur-fitur yang lengkap dan antarmuka yang mudah digunakan, aplikasi ini dapat membantu pengguna untuk mengelola tugas-tugas sehari-hari, memprioritaskan pekerjaan, dan mencapai tujuan dengan lebih efektif.
